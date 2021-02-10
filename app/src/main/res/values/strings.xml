@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Combinatoria</string>
+    <string name="Pregunta_1">¿ Importa el orden de colocación ?</string>
+    <string name="Pregunta_2">¿ Se toman todos los elementos ?</string>
+    <string name="Pregunta_3">¿ Hay repetición ?</string>
+    <string name="Preunta_4.A">Ingrese la cantidad de elementos</string>
+    <string name="Pregunta_4.B">Ingrese la cantidad de sub-grupos por elemento</string>
+    <string name="Pregunta_5">¿ Desea repetir la operación ?</string>
+    <string name="Pregunta_6">¿ Desea volver al menú principal?</string>
+
+    //botones
+    <string name="btn1">Si</string>
+    <string name="btn2">No</string>
+    <string name="btn_Enviar">Realizar operacion</string>
+
+    //nueva activity
+    <string name="titulo">Operacion Preseleccionada: </string>
+
+    //operacion
+    <string name="M1">cantidad de elementos</string>
+    <string name="m">m</string>
+    <string name="N1">elementos por sub-grupos</string>
+    <string name="n">n</string>
+    <string name="Resultado">Resultado: </string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Repetir operacion</string>
+    <string name="btnMenu">Menu Principal</string>
+</resources>
